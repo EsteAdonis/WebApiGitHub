@@ -59,7 +59,7 @@ jobs:
         dotnet-version: '9.0.x'
 
     - name: Restore dependencies
-      uses: dotnet restore WebApiGitHub.csproj
+      uses: dotnet restore WebApiGitHub.sln
 
     # - name: Build
     #   uses: dotnet build --no-restore WebApiGItHub/WebApiGItHub.csproj --no-restore --configuration Release
