@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiGitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0575454ca3e3627e9eb19907595731ac2733aa22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1133252928d2af2c09d7e8fd135a65a1dedd649")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiGitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiGitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
