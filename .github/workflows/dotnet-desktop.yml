@@ -62,8 +62,6 @@ jobs:
 
     - name: Test
       uses: dotnet build --no-restore
-			
-
 
 # jobs:
 
