@@ -11,7 +11,7 @@ jobs:
       - run: echo "which run sequentially"
       - run: echo "within the same compute environment"
   job-2:
-    runs-on: ubutno-24.04
+    runs-on: ubuntu-24.04
     steps:
       - run: echo "Multiple jobs can run in parallel"
   job-3:
